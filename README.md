@@ -36,6 +36,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-mustafa/)
-[![WhatsApp](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://wa.me/+201119706667)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1DA1F2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201119706667)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
