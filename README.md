@@ -87,6 +87,8 @@ I build scalable, performant, and user-focused web applications using modern fro
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=about.me\&logoColor=white)](https://e-mustafa.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/e-mustafa/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/+201119706667)
+[![Email](https://img.shields.io/badge/Email-eng.mustafa@hotmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.mustafa@hotmail.com)
+
 
 ---
 
