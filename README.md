@@ -16,6 +16,49 @@ I build scalable, performant, and user-focused web applications using modern fro
 
 📫 Portfolio: [https://e-mustafa.github.io/portfolio/](https://e-mustafa.github.io/portfolio/)
 
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 E-commerce Dashboard (Enterprise System)
+A scalable admin dashboard built with Next.js App Router, featuring authentication, RBAC, i18n, dynamic forms, and advanced data handling.
+
+🔗 Repo: https://github.com/e-mustafa/nextjs15-dashboard-start  
+🌐 Demo: (add link)
+
+---
+
+### 🛒 E-commerce Platform (Next.js)
+A full-featured e-commerce frontend with SEO optimization, global state management, and performance enhancements.
+
+🔗 Repo: https://github.com/e-mustafa/devita-watchs  
+🌐 Demo: https://devita-watchs.vercel.app  
+
+---
+
+### 🧪 Tested Todo App (Zustand + Jest)
+A production-focused React app demonstrating clean architecture, Zustand state management, and comprehensive testing.
+
+🔗 Repo: https://github.com/e-mustafa/todo-app-with-unit-test-and-zustand  
+🌐 Demo: (add link)
+
+---
+
+### 🌍 Bilingual Blog (Next.js + i18n)
+A multilingual blog application with dynamic language switching and structured state management.
+
+🔗 Repo: https://github.com/e-mustafa/sllm-blog-redux  
+🌐 Demo: https://sllm-blog-redux.vercel.app  
+
+---
+
+### 🔐 Authentication System (Next.js)
+A structured authentication flow with validation, middleware, and scalable architecture.
+
+🔗 Repo: https://github.com/e-mustafa/login-meetus-task  
+
+
 ---
 
 ## 🛠️ Tech Stack
