@@ -25,7 +25,6 @@ I build scalable, performant, and user-focused web applications using modern fro
 A scalable admin dashboard built with Next.js App Router, featuring authentication, RBAC, i18n, dynamic forms, and advanced data handling.
 
 🔗 Repo: https://github.com/e-mustafa/nextjs15-dashboard-start  
-🌐 Demo: (add link)
 
 ---
 
@@ -41,7 +40,7 @@ A full-featured e-commerce frontend with SEO optimization, global state manageme
 A production-focused React app demonstrating clean architecture, Zustand state management, and comprehensive testing.
 
 🔗 Repo: https://github.com/e-mustafa/todo-app-with-unit-test-and-zustand  
-🌐 Demo: (add link)
+🌐 Demo: [https://todo-app-with-unit-test-and-zustand.vercel.app](https://todo-app-with-unit-test-and-zustand.vercel.app/)
 
 ---
 
